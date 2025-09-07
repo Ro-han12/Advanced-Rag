@@ -7,7 +7,7 @@ Original file is located at
     https://colab.research.google.com/drive/1MfxVWzobYwfJ_SX9zXkFDxO7KfLqnV2z
 """
 
-!pip3 install -q -U bitsandbytes peft trl accelerate datasets transformers
+#!pip3 install -q -U bitsandbytes peft trl accelerate datasets transformers
 
 import os
 import torch
